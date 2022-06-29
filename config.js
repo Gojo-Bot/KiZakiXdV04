@@ -10,20 +10,20 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285878313791']
-global.pengguna = 'KiZakiXD'
+global.owner = ['6288804947282']
+global.pengguna = 'Gojo Satoru'
 global.premium = []
-global.author = 'KiZakiXD'
-global.pemilik = ['6285878313791'] 
-global.ownernomer = '6285878313791'
-global.ownername = 'KiZakiXD'
+global.author = 'Gojo Satoru'
+global.pemilik = ['6288804947282'] 
+global.ownernomer = '6288804947282'
+global.ownername = 'Gojo Satoru'
 global.botname = 'Chitanda - MD'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
 global.meki = '6285878313791'
 global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'Gojo Satoru' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
@@ -36,7 +36,7 @@ global.email = 'helloiamkizakixd@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
 global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
+global.packname = '"{\nAuthor: GojoSatoru"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
